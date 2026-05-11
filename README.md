@@ -19,7 +19,6 @@ Minha meta é fazer parte de um time colaborativo, onde eu possa aplicar meu con
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,sqlite,html,css,js,react" alt="Minhas Skills" />
   <br><br>
-  <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
 </p>
 
 ---
